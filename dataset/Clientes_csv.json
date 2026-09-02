@@ -1,10 +1,6 @@
 {
 	"name": "Clientes_csv",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "AzureDataLakeStorage8736933",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
